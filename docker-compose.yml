@@ -20,6 +20,7 @@ services:
       context: .
       dockerfile: ./dev/docker/Dockerfile
     environment:
+      COMPOSER_PROCESS_TIMEOUT: 900
       APP_URL: http://localhost:${DEV_PORT:-8080}
       DB_CONNECTION: mysql
       DB_HOST: db
