@@ -36,3 +36,8 @@ esbuild-meta.json
 public_html
 workstack.nik6seev.beget.tech.error.log
 /public/storage
+
+/.htaccess
+/public/cgi-bin/
+
+/public/uploads/*

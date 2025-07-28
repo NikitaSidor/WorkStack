@@ -1,1 +1,2 @@
 Options -Indexes
+php_value auto_prepend_file /home/n/nik6seev/.beget_profiler_files/workstack_prepend.php
