@@ -33,4 +33,6 @@ phpstan.neon
 esbuild-meta.json
 .phpactor.json
 /*.zip
-public_html/
+public_html
+workstack.nik6seev.beget.tech.error.log
+/public/storage
