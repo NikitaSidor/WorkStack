@@ -73,5 +73,4 @@ return [
         public_path('storage') => storage_path('app/public'),
         base_path('public_html') => public_path(),
     ],
-
 ];
